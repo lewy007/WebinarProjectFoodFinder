@@ -1,4 +1,4 @@
-package org.example;
+package com.foodfinder;
 
 public record Recipe(String name) {
 }

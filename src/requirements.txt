@@ -1,0 +1,5 @@
+1. Jako klient chce móc wprowadziæ kilka posiadanych sk³adników aby uzyskac danie:
+- u¿ytkownik mo¿e podac maks 3 sk³adniki
+- sk³adniki musz¹ ju¿ byæ wczeœniej dodane
+- dla danych sk³adników powinien istnieæ tylko jeden przepis
+- jesli brakuje jakiegoœ sk³adnika, apka podpowiada inny przepis, który mo¿na zrobiæ

@@ -1,8 +1,8 @@
-package org.example;
+package com.foodfinder;
 
 import java.util.List;
 
-public class FoodFinder {
+class FoodFinder {
     Recipe createRecipe(List<String> ingredients) {
 
         // ingredients - cos tam zrobić z nimi

@@ -1,9 +1,9 @@
-package org.example;
+package com.foodfinder;
 
 import java.util.List;
 
-public class Main {
-    public static void main(String[] args) {
+public class FoodFinderApplicationStarter {
+    public void start() {
         FoodFinder foodFinder = new FoodFinder();
         List<String> ingredients = List.of("jajka", "sól", "pieprz");
         foodFinder.createRecipe(ingredients);
