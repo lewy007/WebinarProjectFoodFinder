@@ -1,4 +1,4 @@
 package com.foodfinder;
 
-public record Recipe(String name) {
+record Recipe(String name) {
 }

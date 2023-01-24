@@ -6,7 +6,7 @@ class FoodFinder {
     Recipe createRecipe(List<String> ingredients) {
 
         // ingredients - cos tam zrobić z nimi
-        Recipe recipe = new Recipe("jajecznicaaaaaa");
+        Recipe recipe = new Recipe("jajecznica");
         return recipe;
     }
 }
